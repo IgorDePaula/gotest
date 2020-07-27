@@ -3,5 +3,5 @@ package main
 
 func main() {
 	println("Ba dum, tss!")
-	println("assim vc mata papai!")
+	println("assim voce mata papai!")
 }

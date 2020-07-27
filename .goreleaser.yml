@@ -27,3 +27,4 @@ release:
   github:
     owner: IgorDePaula
     name: gorelease
+  name_template: "{{.ProjectName}}-v{{.Version}} {{.Env.USER}}"
