@@ -14,6 +14,7 @@ builds:
 archives:
 - replacements:
     amd64: x86_64
+  name_template: "GOTest-v{{.Version}}"
 checksum:
   name_template: 'checksums.txt'
 snapshot:
